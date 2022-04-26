@@ -1,2 +1,2 @@
 #!/bin/bash
-/etc/passwd >> 2-hellofile
+sort /etc/passwd >> 2-hellofile
