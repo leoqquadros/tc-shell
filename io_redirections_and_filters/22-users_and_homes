@@ -1,2 +1,2 @@
 #!/bin/bash
-cat /etc/passwd | cut -f1,3
+cat /etc/passwd | cut -f1,6
