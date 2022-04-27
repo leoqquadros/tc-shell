@@ -1,2 +1,2 @@
 #!/bin/bash
-find /home | wc -a
+find */ | wc -a
