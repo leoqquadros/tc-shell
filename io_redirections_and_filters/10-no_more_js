@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r *.js -d 
+rm -r *.js | rmdir folder.js 
