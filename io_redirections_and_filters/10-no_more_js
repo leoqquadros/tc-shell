@@ -1,2 +1,3 @@
 #!/bin/bash
-rdmir -R *.js
+rm -R *.js find -empty -delete
+
